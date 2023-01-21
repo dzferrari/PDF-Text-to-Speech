@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+#
+# Extract text from PDF using LAParams and other options to remove lines or paragraphs based on the initial set of characters.
+
 import argparse
 from io import StringIO
 from pdfminer.converter import TextConverter
