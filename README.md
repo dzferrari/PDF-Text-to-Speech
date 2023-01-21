@@ -23,7 +23,7 @@ As PDF_AUDIO_READER, the task can be devided into 2 steps:
   pip install pdfminer.six
   ```
   
-2. Obtain authentication credentials.
+2. Obtain Google Cloud authentication credentials.
 
 Create local credentials by running the following command and following the oauth2 flow (read more about the command [here](https://cloud.google.com/sdk/gcloud/reference/beta/auth/application-default/login)):
   ```
