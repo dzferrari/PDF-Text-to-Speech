@@ -4,7 +4,7 @@ A set of 2 python scripts. One to read PDF using pdfminer.six, and another one t
 
 ## Credits
 
-This project is inspired by PDF_AUDIO_READER, a nikhilkumarsing repository (https://github.com/nikhilkumarsingh/PDF_AUDIO_READER). The code is based on pdfminer.six (https://github.com/pdfminer/pdfminer.six) and on Python-Doc-Samples, from GoogleCloudPlataform (https://github.com/GoogleCloudPlatform/python-docs-samples).
+This project is inspired by [PDF_AUDIO_READER](https://github.com/nikhilkumarsingh/PDF_AUDIO_READER), a nikhilkumarsing repository. The code is based on [pdfminer.six](https://github.com/pdfminer/pdfminer.six) and on [Python-Doc-Samples](https://github.com/GoogleCloudPlatform/python-docs-samples), from GoogleCloudPlataform.
 
 
 ## How it works?
